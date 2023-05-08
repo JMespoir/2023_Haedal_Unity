@@ -1,0 +1,1323 @@
+fileFormatVersion: 2
+guid: f8a3c2ed2abb5d547862483d6da7a07b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character_001_Battler_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 328
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f6e79e14aa2e24f87e3caec12c9a8e
+      internalID: 788777890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 326
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77196d584b151404280b561bc6993a4c
+      internalID: -266734191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 328
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf646af082718b42b2215438f295c8a
+      internalID: -482371271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 332
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca76b7d173d6a7e42a76ea8fc5941847
+      internalID: 50222229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732beb53c518237448725c48308c6678
+      internalID: -757270816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 326
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1298da2071db52746a2394118e4d8279
+      internalID: 434417324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 328
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637e91ebaf710464e8123232469377e7
+      internalID: -1423605802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 328
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bd018dcaf4227409c0791d8ecc4521
+      internalID: -599678299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_8
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 328
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736c3ffa31bb11349b9b3edd594bb966
+      internalID: 1557734616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 264
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a153c06775e8e43bf970472ec7ee3b
+      internalID: 336999251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 262
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b196dbc0503c7b4981309dfdd65f6dc
+      internalID: -396814032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 264
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d4b4f2717678746bfd769d8e6d950a
+      internalID: -513986823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 268
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e297b854c16d0934b96a785ad70bd7ce
+      internalID: -1763584904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9debbfcba6b6436448242560e6b85ed6
+      internalID: 1023924757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 262
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6914f21978bebcb4fbcf24c4b1642c4b
+      internalID: -1895183575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_15
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 262
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711287f2fb6ebf04884048ffd3f8a18d
+      internalID: 1490702625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_16
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 266
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda630258696d63469e1caa3da2cf816
+      internalID: 1016213880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_17
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 268
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ece3a236aa57914ba0baf136f16bdef
+      internalID: 1853711708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 200
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120bbf2ed7f38a04d8c8e5fbdcb7ec26
+      internalID: -2049213260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 198
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb21d38c98840f47b9fc4e0f5de2943
+      internalID: -8847148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 200
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065ae9bdeee2bf6428d84b5d63d7083c
+      internalID: 566839442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_21
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 204
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04c7f92f62054a4b956088f78d5ba50
+      internalID: -1755057642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_22
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 202
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6081096a483f48146bb9901a005e1d7f
+      internalID: 473864036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 200
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561dbc42c60bb0d40b49578f51d466d8
+      internalID: 837661968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_24
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 200
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aef4e723e74634a85ac65a05e07627
+      internalID: -480387360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_25
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 198
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13806585e9858274e816db13cf02f9b5
+      internalID: -565460471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_26
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 200
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28a78c1325c665449dc76f7fb04c83b
+      internalID: -759138694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 134
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b479b8051898bf438c36e2e92d3920c
+      internalID: -2062453530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 134
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3447e45a41893104587a41d409dde67d
+      internalID: -601933126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 134
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd38248d4b4c134ab92eb69428ef4ec
+      internalID: 2108111879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 140
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03669f2b49eb9964d85ad9549bdc22dc
+      internalID: -797268612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 136
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff41f412282dba24da97c6e8093c746c
+      internalID: 1763262528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_32
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 134
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd9bd1fcf0073a489df29165b0beca2
+      internalID: 1271517534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_33
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 136
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd1ceda796a9554cb4f2f12d07a62e9
+      internalID: 561927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_34
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 134
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d2e87445a72154484de3fe93f51040
+      internalID: 1464124169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_35
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 136
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f8dd61f248c0646ba558e0d722d8f4
+      internalID: 1203578666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 72
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6449f43c56fc4374186bec22060879ac
+      internalID: -1664940426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 70
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087db4164b8853f4dbc8dbd7ed799168
+      internalID: -966222821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 72
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99376059f8bf1454a858203cad36bb28
+      internalID: 2128799986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 76
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8985a51cb3d2d7344b35c9bbcd17fdc1
+      internalID: 935148587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 74
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a7f7e97cb18554295577f411b90a0f
+      internalID: 1865595562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 72
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae011530282e4e4c8c9c0ca3b60c0cf
+      internalID: 292310779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f6b00a3bccd3d489a6cee7e68b2922
+      internalID: 259948236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_43
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 66
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbed67c1ccc97e42acbf496561a75f2
+      internalID: -755427789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_44
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 66
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b075b2d5e146847b8dd242fa09802d
+      internalID: 716100082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 8
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddedd2bb55331c42897dc144c6ed9bf
+      internalID: -259064154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_46
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 8
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d169be5724ef7498ec6a28bde2ffb6
+      internalID: -357559918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_47
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 8
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db64ddc175bf3f448a9cd21a69a94b1
+      internalID: 709020375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_48
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 8
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e3e16744ea94242a3b70b7b3491aed
+      internalID: 1724406205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_49
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 8
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49567e689b0de0641802fdffff70abd9
+      internalID: -456911161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_50
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0ab879172704e46bcbdc3b007797e2
+      internalID: 544123202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_51
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 4
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46aa602eb1477b4eb58c00de2050fd9
+      internalID: -125022593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 4
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9d5fbd01a648946a06a199dcf52edd
+      internalID: 1266734183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_001_Battler_53
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 4
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929a5770ebd5e3f4b8c68cb4a7f82441
+      internalID: -1335961170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Character_001_Battler_0: 788777890
+      Character_001_Battler_1: -266734191
+      Character_001_Battler_10: -396814032
+      Character_001_Battler_11: -513986823
+      Character_001_Battler_12: -1763584904
+      Character_001_Battler_13: 1023924757
+      Character_001_Battler_14: -1895183575
+      Character_001_Battler_15: 1490702625
+      Character_001_Battler_16: 1016213880
+      Character_001_Battler_17: 1853711708
+      Character_001_Battler_18: -2049213260
+      Character_001_Battler_19: -8847148
+      Character_001_Battler_2: -482371271
+      Character_001_Battler_20: 566839442
+      Character_001_Battler_21: -1755057642
+      Character_001_Battler_22: 473864036
+      Character_001_Battler_23: 837661968
+      Character_001_Battler_24: -480387360
+      Character_001_Battler_25: -565460471
+      Character_001_Battler_26: -759138694
+      Character_001_Battler_27: -2062453530
+      Character_001_Battler_28: -601933126
+      Character_001_Battler_29: 2108111879
+      Character_001_Battler_3: 50222229
+      Character_001_Battler_30: -797268612
+      Character_001_Battler_31: 1763262528
+      Character_001_Battler_32: 1271517534
+      Character_001_Battler_33: 561927
+      Character_001_Battler_34: 1464124169
+      Character_001_Battler_35: 1203578666
+      Character_001_Battler_36: -1664940426
+      Character_001_Battler_37: -966222821
+      Character_001_Battler_38: 2128799986
+      Character_001_Battler_39: 935148587
+      Character_001_Battler_4: -757270816
+      Character_001_Battler_40: 1865595562
+      Character_001_Battler_41: 292310779
+      Character_001_Battler_42: 259948236
+      Character_001_Battler_43: -755427789
+      Character_001_Battler_44: 716100082
+      Character_001_Battler_45: -259064154
+      Character_001_Battler_46: -357559918
+      Character_001_Battler_47: 709020375
+      Character_001_Battler_48: 1724406205
+      Character_001_Battler_49: -456911161
+      Character_001_Battler_5: 434417324
+      Character_001_Battler_50: 544123202
+      Character_001_Battler_51: -125022593
+      Character_001_Battler_52: 1266734183
+      Character_001_Battler_53: -1335961170
+      Character_001_Battler_6: -1423605802
+      Character_001_Battler_7: -599678299
+      Character_001_Battler_8: 1557734616
+      Character_001_Battler_9: 336999251
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
