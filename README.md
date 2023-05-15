@@ -3,4 +3,4 @@
 
 ### 해달 스터디 링크
 
-[https://github.com/swimmin99/Haedal_UnityBootCamp]
+https://github.com/swimmin99/Haedal_UnityBootCamp
