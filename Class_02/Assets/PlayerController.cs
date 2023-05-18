@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public GameObject AttackArea;
+    public GameObject ConversationArea;
     public float speed;
     Rigidbody2D rgbd;
     float h;
@@ -13,7 +14,7 @@ public class PlayerController : MonoBehaviour
     public Animator ani;
     private float curTime;
     public float coolTime = 0.5f;
-
+    
     void Awake()
     {
         spr = GetComponent<SpriteRenderer>();
@@ -28,6 +29,12 @@ public class PlayerController : MonoBehaviour
 
         h=Input.GetAxisRaw("Horizontal");
         v=Input.GetAxisRaw("Vertical");
+        if(Input.GetKey(KeyCode.T)){
+            ConversationArea.SetActive(true);
+        }
+        else{
+            ConversationArea.SetActive(false);
+        }
         if(Input.GetKey(KeyCode.Space)){
             
             if(curTime<=0){

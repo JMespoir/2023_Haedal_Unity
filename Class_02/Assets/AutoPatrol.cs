@@ -17,34 +17,20 @@ public class AutoPatrol : MonoBehaviour
         rdv = new Vector2(transform.position.x + Random.Range(-maxLength,maxLength), transform.position.y + Random.Range(-maxLength,maxLength));
     }
 
-    private void OnTriggerEnter2D(Collider2D collision){
-        if(collision != null){
-            isCollision = true;
-        }
-    }
     // Update is called once per frame
     void FixedUpdate()
     {
         
         moveTimer += Time.deltaTime;
         if(moveTimer>moveTime){
-            if(isCollision==false){
-                transform.position = Vector2.MoveTowards(transform.position,rdv,moveSpeed * Time.deltaTime);
-                animator.SetBool("isMoving", true);
-                    if(Vector2.Distance(transform.position,rdv)<maxLength/10f){
-                    rdv = new Vector2(transform.position.x + Random.Range(-maxLength,maxLength), transform.position.y + Random.Range(-maxLength,maxLength));
-                    moveTimer = 0f;
-                    animator.SetBool("isMoving",false);
-                }
-            }
-            else{
-                animator.SetBool("isMoving",false);
+            transform.position = Vector2.MoveTowards(transform.position,rdv,moveSpeed * Time.deltaTime);
+            animator.SetBool("isMoving", true);
+
+            if(Vector2.Distance(transform.position,rdv)<maxLength/10f){
                 rdv = new Vector2(transform.position.x + Random.Range(-maxLength,maxLength), transform.position.y + Random.Range(-maxLength,maxLength));
                 moveTimer = 0f;
                 animator.SetBool("isMoving",false);
             }
-            
-            
         }
     }
     

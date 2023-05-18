@@ -15,7 +15,6 @@ public class Health : MonoBehaviour
 
     public void Damage(float damage){
         health -=damage;
-        Debug.Log("Health : " + health);
         StartCoroutine(Red());
         if(health<=0){
             Destroy(gameObject);
