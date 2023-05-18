@@ -9,5 +9,5 @@ https://github.com/swimmin99/Haedal_UnityBootCamp
 - 2023.05.19 Update
   > 대화창 UI구현
   <br/>
-  > 대화 내용 주기적으로 변경
+  대화 내용 주기적으로 변경
 
