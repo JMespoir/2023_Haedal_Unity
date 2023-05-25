@@ -9,10 +9,14 @@ public class ColorChange : MonoBehaviour
     public GameObject down;
     public GameObject left;
     public GameObject right;
+    public GameObject Attack;
+    public GameObject T;
     Image a;
     Image b;
     Image c;
     Image d;
+    Image e;
+    Image f;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,7 +24,8 @@ public class ColorChange : MonoBehaviour
         b= down.GetComponent<Image>();
         c= left.GetComponent<Image>();
         d= right.GetComponent<Image>();
-        
+        e = Attack.GetComponent<Image>();
+        f = T.GetComponent<Image>();
     }
 
     // Update is called once per frame
@@ -49,6 +54,18 @@ public class ColorChange : MonoBehaviour
         }
         else{
             d.color = Color.white;
+        }
+        if(Input.GetKey(KeyCode.Space)){
+            e.color = Color.red;
+        }
+        else{
+            e.color = Color.white;
+        }
+        if(Input.GetKey(KeyCode.T)){
+            f.color = Color.red;
+        }
+        else{
+            f.color = Color.white;
         }
     }
 }
