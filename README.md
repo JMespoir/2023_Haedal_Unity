@@ -4,3 +4,10 @@
 ### 해달 스터디 링크
 
 https://github.com/swimmin99/Haedal_UnityBootCamp
+
+### 스터디 외 구현한 기능
+- 2023.05.19 Update
+  > - 대화창 UI구현
+  > - 대화 기능 추가
+  
+
