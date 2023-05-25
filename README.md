@@ -11,5 +11,5 @@ https://github.com/swimmin99/Haedal_UnityBootCamp
   > - 대화 기능 추가
   
 - 2023.05.25 Update
- > - 튜토리얼 UI T,SpaceBar 추가
- > - HP Bar UI 추가
+  > - 튜토리얼 UI T,SpaceBar 추가
+  > - HP Bar UI 추가
